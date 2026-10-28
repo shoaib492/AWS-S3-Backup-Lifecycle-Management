@@ -30,7 +30,27 @@ This hands-on AWS project demonstrates secure object storage, data protection, a
 - Cloud storage security and cost optimization
 
 ## 📸 Project Screenshots
-Screenshots of the AWS configuration and testing will be added here.
+
+### 1. S3 Bucket Objects
+![S3 Bucket Objects](01-S3-Bucket-Objects.jpeg)
+
+### 2. S3 Versioning Enabled
+![S3 Versioning](02-S3-Versioning-Enabled.jpeg)
+
+### 3. S3 Lifecycle Configuration
+![S3 Lifecycle Configuration](03-S3-Lifecycle-Configuration.jpeg)
+
+### 4. IAM Backup Bucket Policy
+![IAM Backup Bucket Policy](04-IAM-Backup-Bucket-Policy.jpeg)
+
+### 5. S3 Lifecycle Rule Configuration
+![Lifecycle Rule](05-S3-Lifecycle-Rule-Configuration.jpeg)
+
+### 6. IAM S3 Backup Bucket Access Policy
+![S3 Access Policy](06-IAM-S3-Backup-Bucket-Access-Policy.jpeg)
+
+### 7. IAM Backup User Permissions
+![Backup User Permissions](07-IAM-Backup-User-Permissions.jpeg)
 
 ## 🔐 Security Notes
 - No AWS access keys, secret keys, or passwords should be committed.
